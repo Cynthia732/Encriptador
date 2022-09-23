@@ -256,8 +256,8 @@ body {
 }
 
 .footer{
- margin-top: auto;
- margin-left: 550px;
+  padding: 20px;
+  text-align: center;
 }
 
 .footer-autor{
@@ -339,6 +339,10 @@ body {
   #textoResultado {
     width: 10rem;
     word-wrap: break-word;
+  }
+
+  .footer {
+    margin-top: 8rem;
   }
 }
 
