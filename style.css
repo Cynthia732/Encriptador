@@ -257,7 +257,7 @@ body {
 
 .footer{
  margin-top: auto;
- margin-left: 150px;
+ margin-left: 550px;
 }
 
 .footer-autor{
@@ -266,13 +266,12 @@ body {
   margin-top: 50px;
   font-family: 'Inter';
   font-style: normal;
-  
   line-height: 19px;
   
 }
 
 .footer-autor a:hover {
-  color: #b8c4d2;
+  color: #000000;
 }
 
 .footer-link{
